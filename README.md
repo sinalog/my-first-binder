@@ -1,2 +1,2 @@
 # my-first-binder
-Ejercicio de prácticas con Binder
+Esto es una primera práctica con Binder. 
